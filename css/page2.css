@@ -41,11 +41,6 @@ nav li a{
   text-decoration:none;
 }
 
-ul a:hover{
-  text-decoration: underline;
-  color:#e3e3e3;
-  font-size: 20px;
-}
 .main{
   margin-top: 0px;
 }
@@ -68,8 +63,7 @@ text-align: center;
   background:#e2dfdd;
   margin-top: 50px;
 }
-.sec2{
-    background:  #747474;}
+
 
 
 .footer{
@@ -96,4 +90,7 @@ text-align: center;
 }
 footer h6{
   text-transform:uppercase;
+}
+.section{
+  opacity:0.95;
 }
